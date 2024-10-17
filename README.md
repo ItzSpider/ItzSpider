@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzSpider
 - 👀 I'm a football/soccer goalkeeper.
-- 🌱 I’m currently learning Java, HTML, and other things
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me: send a dm to me in discord (spider_hp)
 - 😄 Pronouns: he/him
 
